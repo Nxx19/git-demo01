@@ -10,6 +10,7 @@ public class Demo01 {
         System.out.println("hello world");
         System.out.println("hello world hot-fix");
         System.out.println("hello world master");
+        System.out.println("hello world hot-fix");
     }
 
 }
